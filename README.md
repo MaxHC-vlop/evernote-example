@@ -21,7 +21,7 @@ sudo python2 get-pip.py
 python2 pip install -r requirements.txt
 ```
 ## Настройка
-Создаем `.env` файл со следущим .
+Создаем `.env` файл со следующими переменными :
 
 - EVERNOTE_CONSUMER_KEY - ваш consumer key, получите его на [dev.evernote.com](https://dev.evernote.com/#apikey).
 - EVERNOTE_CONSUMER_SECRET - ваш consumer secret, получите его на [dev.evernote.com](https://dev.evernote.com/#apikey).
